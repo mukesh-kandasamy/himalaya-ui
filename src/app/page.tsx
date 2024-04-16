@@ -16,7 +16,7 @@ export default function Index() {
       <Hero scrollToId="services" style={{ background: theme.type == 'dark' ? '#090909' : '#ffffff' }}>
         <Hero.Tag>HIMALAYA UI</Hero.Tag>
         <Hero.Title>
-          Scaling Heights of Design Excellence: Your UI Journey <span style={{ textDecoration: 'underline', fontWeight: 300 }}>Begins Here!</span>
+          Mukesh Scaling Heights of Design Excellence: Your UI Journey <span style={{ textDecoration: 'underline', fontWeight: 300 }}>Begins Here!</span>
         </Hero.Title>
         <Hero.Desc>
           Elevate your Next.js web development with our open-source UI library, offering a comprehensive suite of customizable components for building modern
